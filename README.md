@@ -41,5 +41,6 @@ Miguel de Cervantes (1605)
 ...
 <h6>Encabezado de nivel 6</h6>
 
-<a href="https://www.una.ac.cr/">Sitio web de la Universidad Nacional de Costa Rica (UNA) en la misma ventana!</a>  
+<a href="https://www.una.ac.cr/">Sitio web de la Universidad Nacional de Costa Rica (UNA) en la misma ventana!</a>    
 
+<a href="https://www.una.ac.cr/" target="_blank">abrir en una nueva ventana o pestaña</a>
