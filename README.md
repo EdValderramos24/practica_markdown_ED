@@ -27,7 +27,7 @@ Miguel de Cervantes (1605)
 
 ## Hipervínculos
 
-^[Sitio web de la Universidad Nacional de Costa Rica (UNA)]$(https://www.una.ac.cr/)
+^[Sitio web de la Universidad Nacional de Costa Rica (UNA)]^(https://www.una.ac.cr/)
 
 ## Imágenes
 
