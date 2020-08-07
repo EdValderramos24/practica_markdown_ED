@@ -22,7 +22,8 @@ _Hola mundo_
 _**Texto en negrita y en ítalica**_
 
 ## Citas textuales
-> En un lugar de la mancha
+> _En un lugar de la mancha_
+Miguel de Cervantes (1605)
 
 ## Hipervínculos
 
