@@ -12,7 +12,7 @@ Práctica de uso de la sintaxis Markdowm
 ###### Encabezado de nivel 6
 
 ## Ítalica 
-_Hola mundo  
+_Hola mundo_  
 *Hola*
 
 ## Negritas 
