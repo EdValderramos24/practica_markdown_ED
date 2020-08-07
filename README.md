@@ -49,6 +49,6 @@ Redirect 301 /directorio/documento-de-ejemplo.html https://www.una.ac.cr
 
 
 RewriteEngine On
-RewriteRule ^directorio/documento-de-ejemplo.html$ www.una.ac.cr [L,R=301]
+RewriteRule ^directorio/documento-de-ejemplo.html$ http://www.una.ac.cr [L,R=301]
 
 
