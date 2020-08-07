@@ -47,7 +47,7 @@ Miguel de Cervantes (1605)
 
 Redirect 301 /directorio/documento-de-ejemplo.html https://www.una.ac.cr  
 
-<a href="http://www.una.ac.cr"target="_blank">UNAE</a>
+<a href="http://www.una.ac.cr" target="_blank">UNAE</a>
 
 RewriteEngine On
 RewriteRule ^directorio/documento-de-ejemplo.html$ http://www.una.ac.cr [L,R=301]
