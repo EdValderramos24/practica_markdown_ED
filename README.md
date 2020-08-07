@@ -43,4 +43,4 @@ Miguel de Cervantes (1605)
 
 <a href="https://www.una.ac.cr/">Sitio web de la Universidad Nacional de Costa Rica (UNA) en la misma ventana!</a>    
 
-<a href="https://www.una.ac.cr/" target="_blank">abrir en una nueva ventana o pestaña</a>
+<a href="https://www.una.ac.cr/" target="_blank">una</a>
