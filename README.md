@@ -19,6 +19,8 @@ _Hola mundo_
 
 **Hola mundo**  
 
+_**Texto en negrita y en ítalica**_
+
 ## Citas textuales
 
 ## Hipervínculos
