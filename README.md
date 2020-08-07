@@ -59,7 +59,7 @@ Miguel de Cervantes (1605)
 
 
 
-<a href ="https://www.geografia.fcs.ucr.ac.cr/" target="_blank">Geografia otra pag</a>.
+<a href ="https://www.geografia.fcs.ucr.ac.cr/" target="_blank">Geografia otra pag</a>
 
 
 
