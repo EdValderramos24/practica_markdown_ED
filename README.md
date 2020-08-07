@@ -44,3 +44,11 @@ Miguel de Cervantes (1605)
 <a href="https://www.una.ac.cr/">Sitio web de la Universidad Nacional de Costa Rica (UNA) en la misma ventana!</a>    
 
 <a href="https://www.una.ac.cr/" target="_blank">una</a>
+
+Redirect 301 /directorio/documento-de-ejemplo.html https://www.una.ac.cr  
+
+
+RewriteEngine On
+RewriteRule ^directorio/documento-de-ejemplo.html$ www.una.ac.cr [L,R=301]
+
+
