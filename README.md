@@ -37,9 +37,13 @@ Miguel de Cervantes (1605)
 3. Tercer elemento
 
 ## Listas no numeradas
-Primer elemento
-Segundo elemento  
-Tercer elemento
+- Primer elemento
+  - 1.1
+  - 1.2
+  - 1.3
+
+- Segundo elemento    
+- Tercer elemento  
 
 ## HTML
 <h1>Encabezado de nivel 1</h1>
