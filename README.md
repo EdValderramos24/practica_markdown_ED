@@ -1,5 +1,7 @@
 # practica_markdown_ED
+
 Práctica de uso de la sintaxis Markdowm
+
 ## Encabezado
 
 # Encabezado de nivel 1
@@ -9,14 +11,18 @@ Práctica de uso de la sintaxis Markdowm
 ##### Encabezado de nivel 5
 ###### Encabezado de nivel 6
 
-## Negrita
-
 ## Ítalica 
+**Hola mundo**   
+*Hola*
+
+## Negritas 
+
+
 
 ## Citas textuales
 
-## Hipervinculos
+## Hipervínculos
 
-## Imagenes
+## Imágenes
 
-##Listas
+## Listas
